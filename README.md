@@ -1,6 +1,6 @@
 <body>
   <h1> History of the Rick Roll </h1>
-  <p1> On July 27th 1987 the face of the internet was changed forever. The Rick Roll is a meme that originated from the 1987 Rick Astly music video</p1><i> Never Gonna Give You Up.</i> <p2>The begining of the meme stems from 2006 under the original alias of <i>Duck Rolling</i>, and gained mainstream poularity in 2008 when the song was used by YouTube itself for an April fool's day event. Now the Rick Roll is a widely spead and widely loved meme, often being reffered to as one of the clasics of meme colture, and it's cuurent usage is often subversion of expectation. The idea being that a person will be watching a video and suddenly the video will switch to Rick Astly dancing as the instrumental of the song begins to play.                                                                                                                                              
+  <p1> On July 27th 1987 the face of the internet was changed forever. The rick roll is a meme that originated from the 1987 Rick Astly music video</p1><i> Never Gonna Give You Up.</i> <p2>The begining of the meme stems from 2006 under the original alias of <i>Duck Rolling</i>, and gained mainstream poularity in 2008 when the song was used by YouTube itself for an April fool's day event. Now the rick roll is a widely spead and widely loved meme, often being reffered to as one of the clasics of meme colture, and it's curent usage is often subversion of expectation. The idea being that a person will be watching a video and suddenly the video will switch to Rick Astly dancing as the instrumental of the song begins to play.                                                                                                                                              
    </p2>
     
                         
@@ -12,3 +12,6 @@
 <video width="520" height="440" controls>
   <source src="the deadliest self defence move.mp4" type="video/mp4">
 </video>
+  <h3> For more information on the rick roll, check out the following links </h3>
+<a href="https://www.dictionary.com/e/slang/rickrolling/">Wikipedia/Rickrolling</a>
+<a href="https://www.dictionary.com/e/slang/rickrolling/">Dictionary.com/Rickrolling</a>
