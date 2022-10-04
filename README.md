@@ -19,4 +19,7 @@
   <h3> Here are some images of Rick Astly</h3>
 <img src="Rick-Astley-Never-Gonna-Give-You-Up.jpg" alt="Rick Astly">
 <img src="rick-astley-villa-maria-2020-billboard-1548-1627575428.jpg" alt="Rick Astly 2020">
+<h3> Below are the links to the videos used in the creation of this website.</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Never Gonna Give You Up Music Video</a>
+<a href="https://www.youtube.com/shorts/xHEgHjJvR94">Deadliest Self Defence Rick Roll</a>
 </body>
