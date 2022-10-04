@@ -12,6 +12,8 @@
 <video width="520" height="440" controls>
   <source src="the deadliest self defence move.mp4" type="video/mp4">
 </video>
-  <h3> For more information on the rick roll, check out the following links </h3>
+  <h3> For more information on the rick roll, check out the following links. </h3>
 <a href="https://www.dictionary.com/e/slang/rickrolling/">Wikipedia/Rickrolling</a>
 <a href="https://www.dictionary.com/e/slang/rickrolling/">Dictionary.com/Rickrolling</a>
+  <h3> Here are some images of Rick Astly</h3>
+<img src="pic_trulli.jpg" alt="Italian Trulli">
