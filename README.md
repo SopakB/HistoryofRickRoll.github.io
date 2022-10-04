@@ -16,4 +16,5 @@
 <a href="https://www.dictionary.com/e/slang/rickrolling/">Wikipedia/Rickrolling</a>
 <a href="https://www.dictionary.com/e/slang/rickrolling/">Dictionary.com/Rickrolling</a>
   <h3> Here are some images of Rick Astly</h3>
-<img src="pic_trulli.jpg" alt="Italian Trulli">
+<img src="Rick-Astley-Never-Gonna-Give-You-Up.jpg" alt="Rick Astly">
+<img src="rick-astley-villa-maria-2020-billboard-1548-1627575428.jpg" alt="Rick Astly 2020">
