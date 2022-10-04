@@ -1,5 +1,6 @@
 <body>
   <h1> History of the Rick Roll </h1>
+  <h4> By Sopak Barua, 10/4/2022 </h4>
   <p1> On July 27th 1987 the face of the internet was changed forever. The rick roll is a meme that originated from the 1987 Rick Astly music video</p1><i> Never Gonna Give You Up.</i> <p2>The begining of the meme stems from 2006 under the original alias of <i>Duck Rolling</i>, and gained mainstream poularity in 2008 when the song was used by YouTube itself for an April fool's day event. Now the rick roll is a widely spead and widely loved meme, often being reffered to as one of the clasics of meme colture, and it's curent usage is often subversion of expectation. The idea being that a person will be watching a video and suddenly the video will switch to Rick Astly dancing as the instrumental of the song begins to play.                                                                                                                                              
    </p2>
     
@@ -18,3 +19,4 @@
   <h3> Here are some images of Rick Astly</h3>
 <img src="Rick-Astley-Never-Gonna-Give-You-Up.jpg" alt="Rick Astly">
 <img src="rick-astley-villa-maria-2020-billboard-1548-1627575428.jpg" alt="Rick Astly 2020">
+</body>
